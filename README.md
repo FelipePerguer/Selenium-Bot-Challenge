@@ -1,2 +1,2 @@
 # Selenium-Bot-Challenge
-AA Challenge of Bot Games with Selenium Python
+The "BotGames 3 Automation Anywhere Sales Order" challenge involved automating the sales order process using Automation Anywhere, with Selenium used to address specific challenges. Selenium was employed to interact with web-based applications for data extraction and validation, enabling the automation of browser-based tasks. By integrating Selenium with Automation Anywhere, I was able to automate the entire order processing workflow, including web form submissions, data validation, and order creation. This solution reduced manual effort, minimized errors, and significantly improved the speed and accuracy of the sales order processing.
